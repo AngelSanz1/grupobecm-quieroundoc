@@ -1,6 +1,4 @@
-# grupobecm/quieroundoc
-
-FreeGeoIP for Laravel 4 
+QUIEROUNDOC Laravel 5.2.33 
 =======================
 
 [![Build Status](https://travis-ci.org/buonzz/laravel-4-freegeoip.svg?branch=master)](https://travis-ci.org/buonzz/laravel-4-freegeoip)
