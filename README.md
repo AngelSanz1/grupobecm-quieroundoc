@@ -1,10 +1,11 @@
 QUIEROUNDOC Laravel 5.2.33 
 =======================
 
-[![Build Status](https://travis-ci.org/buonzz/laravel-4-freegeoip.svg?branch=master)](https://travis-ci.org/buonzz/laravel-4-freegeoip)
-[![Latest Stable Version](https://poser.pugx.org/buonzz/laravel-4-freegeoip/v/stable.svg)](https://) 
-[![Total Downloads](https://poser.pugx.org/buonzz/laravel-4-freegeoip/downloads.svg)](https://)
-[![Latest Unstable Version](https://poser.pugx.org/buonzz/laravel-4-freegeoip/v/unstable.svg)](https://) [![License](https://poser.pugx.org/buonzz/laravel-4-freegeoip/license.svg)](https://)
+[![Build Status]]
+[![Latest Stable Version]]
+[![Total Downloads]]
+[![Latest Unstable Version]]
+[![License]]
 
 Laravel 4 Library for calling http://freegeoip.net/ API.
 
